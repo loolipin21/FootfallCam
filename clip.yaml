@@ -1,0 +1,5 @@
+path: ./badge_dataset
+train: images
+val: images  # Or split manually later
+names:
+  0: clip
